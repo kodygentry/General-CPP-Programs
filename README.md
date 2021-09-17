@@ -1,2 +1,2 @@
 # General-CPP-Programs
-Collection of C++ projects
+Collection of various C++ projects
