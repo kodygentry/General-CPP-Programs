@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PA3" targetName="PA3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8482a3a6-413b-4309-9164-79ccca1e0e2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YGvWi56IY2dbzIaoOSYg2iPXtc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PA3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PA3" TARGET_NAME="PA3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PA3" RUN_TARGET_NAME="PA3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8482a3a6-413b-4309-9164-79ccca1e0e2e" name="Default Changelist" comment="" />
+      <created>1582581778579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582581778579</updated>
+      <workItem from="1582581781819" duration="26918000" />
+      <workItem from="1582833775697" duration="46000" />
+      <workItem from="1582833961952" duration="2559000" />
+      <workItem from="1582929953918" duration="24000" />
+      <workItem from="1583030327025" duration="26282000" />
+      <workItem from="1583973895195" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582833796274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="79" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1582833796274" />
+    <state width="722" height="252" key="GridCell.Tab.0.bottom" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.0.center" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.0.left" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.0.right" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.1.bottom" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.1.center" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.1.left" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state width="722" height="252" key="GridCell.Tab.1.right" timestamp="1583473237795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="722" height="252" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1583473237795" />
+    <state x="55" y="185" key="run.anything.popup" timestamp="1583033562769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="55" y="185" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1583033562769" />
+    <state x="61" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1583472782849">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="61" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1583472782849" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kodyg/CLionProjects/PA5(2)/StringList.h
+vector
+-
+StringNode.h
+C:/Users/kodyg/CLionProjects/PA5(2)/StringNode.h
+
+C:/Users/kodyg/CLionProjects/PA5(2)/StringNode.h
+string
+-
+
+C:/Users/kodyg/CLionProjects/PA5(2)/newTests.cpp
+newTests.h
+C:/Users/kodyg/CLionProjects/PA5(2)/newTests.h
+string
+-
+StringList.h
+C:/Users/kodyg/CLionProjects/PA5(2)/StringList.h
+
+C:/Users/kodyg/CLionProjects/PA5(2)/newTests.h
+

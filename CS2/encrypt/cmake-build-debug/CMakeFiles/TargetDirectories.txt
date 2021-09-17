@@ -1,0 +1,2 @@
+C:/Users/kodyg/Desktop/txst/CS2308/projects/PA2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kodyg/Desktop/txst/CS2308/projects/PA2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

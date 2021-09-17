@@ -1,0 +1,3 @@
+C:/Users/kodyg/CLionProjects/PA5(2)/cmake-build-debug/CMakeFiles/PA5_2_.dir
+C:/Users/kodyg/CLionProjects/PA5(2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kodyg/CLionProjects/PA5(2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

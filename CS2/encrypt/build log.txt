@@ -1,0 +1,179 @@
+2/15/2020
+1:28 PM	CLion 2019.3.4 available
+				Update...
+
+1:36 PM	Build failed in 11 s 274 ms
+
+1:40 PM	Build finished in 8 s 349 ms
+
+1:44 PM	Build finished in 1 s 549 ms
+
+3:11 PM	Build finished in 6 s 368 ms
+
+3:12 PM	Build finished in 5 s 176 ms
+
+3:13 PM	Build finished in 4 s 523 ms
+
+3:17 PM	Build finished in 6 s 197 ms
+
+3:18 PM	Build finished in 3 s 788 ms
+
+3:25 PM	Build finished in 5 s 281 ms
+
+3:30 PM	Build finished in 3 s 867 ms
+
+2/16/2020
+6:11 PM	Build finished in 5 s 554 ms
+
+6:13 PM	Build finished in 5 s 739 ms
+
+6:16 PM	Build finished in 5 s 191 ms
+
+6:17 PM	Build finished in 5 s 323 ms
+
+2/17/2020
+7:39 PM	CLion 2019.3.4 available
+				Update...
+
+2/18/2020
+8:56 AM	Build finished in 11 s 952 ms
+
+9:04 AM	Build finished in 4 s 509 ms
+
+9:05 AM	Build failed in 3 s 745 ms
+
+9:05 AM	Build finished in 3 s 981 ms
+
+9:09 AM	Build finished in 3 s 490 ms
+
+9:10 AM	Build finished in 5 s 8 ms
+
+9:30 AM	Build finished in 6 s 90 ms
+
+11:37 AM	Build finished in 8 s 621 ms
+
+11:38 AM	Build finished in 7 s 19 ms
+
+11:39 AM	Build finished in 4 s 1 ms
+
+11:40 AM	Build finished in 5 s 530 ms
+
+2:57 PM	Build finished in 7 s 981 ms
+
+3:15 PM	Build finished in 7 s 236 ms
+
+2/19/2020
+10:30 PM	Build finished in 9 s 696 ms
+
+2/20/2020
+9:30 AM	Build failed in 7 s 538 ms
+
+9:32 AM	Build finished in 6 s 235 ms
+
+11:56 AM	Build failed in 4 s 973 ms
+
+11:56 AM	Build failed in 2 s 403 ms
+
+11:57 AM	Build failed in 2 s 322 ms
+
+11:57 AM	Build failed in 2 s 276 ms
+
+11:57 AM	Build failed in 2 s 364 ms
+
+11:58 AM	Build failed in 3 s 229 ms
+
+11:59 AM	Build finished in 7 s 383 ms
+
+12:00 PM	Build finished in 4 s 779 ms
+
+12:51 PM	Build failed in 12 s 848 ms
+
+12:52 PM	Build finished in 5 s 39 ms
+
+12:55 PM	Build failed in 6 s 497 ms
+
+12:57 PM	Build finished in 6 s 251 ms
+
+12:58 PM	Build failed in 2 s 770 ms
+
+12:58 PM	Build finished in 4 s 996 ms
+
+12:59 PM	Build finished in 1 s 372 ms
+
+1:06 PM	Build finished in 8 s 200 ms
+
+10:49 PM	Build finished in 7 s 729 ms
+
+10:51 PM	Build finished in 923 ms
+
+10:54 PM	Build finished in 3 s 100 ms
+
+10:55 PM	Build finished in 2 s 651 ms
+
+10:56 PM	Build finished in 2 s 936 ms
+
+10:56 PM	Build finished in 851 ms
+
+11:00 PM	Build finished in 3 s 415 ms
+
+11:03 PM	Build failed in 1 s 734 ms
+
+11:04 PM	Build finished in 2 s 720 ms
+
+11:04 PM	Build finished in 806 ms
+
+11:05 PM	Build finished in 2 s 794 ms
+
+11:07 PM	Build finished in 2 s 861 ms
+
+11:10 PM	Build finished in 1 s 184 ms
+
+11:11 PM	Build finished in 890 ms
+
+11:14 PM	Build finished in 3 s 849 ms
+
+11:15 PM	Build failed in 2 s 9 ms
+
+11:16 PM	Build finished in 3 s 78 ms
+
+11:17 PM	Build finished in 910 ms
+
+11:19 PM	Build failed in 1 s 810 ms
+
+11:19 PM	Build finished in 3 s 202 ms
+
+11:20 PM	Build finished in 803 ms
+
+11:21 PM	Build finished in 2 s 914 ms
+
+11:22 PM	Build finished in 2 s 829 ms
+
+11:22 PM	Build finished in 876 ms
+
+11:22 PM	Build finished in 865 ms
+
+11:24 PM	Build finished in 807 ms
+
+2/21/2020
+1:54 PM	Build failed in 8 s 220 ms
+
+1:55 PM	Build finished in 5 s 568 ms
+
+1:55 PM	Build finished in 1 s 318 ms
+
+1:56 PM	Build finished in 1 s 371 ms
+
+1:57 PM	Build finished in 4 s 312 ms
+
+2:05 PM	Build finished in 7 s 246 ms
+
+2:06 PM	Build finished in 2 s 56 ms
+
+
+
+
+
+
+
+2/15 - 2/21
+2 hours 15 min total (+-30 min)
